@@ -1,6 +1,6 @@
 # IPS public assets
 
-Kho tài liệu công khai của IPS Dental Lab. Ảnh ở đây được Zalo bot và Caby gọi qua đường dẫn raw.githubusercontent.com.
+Kho tài liệu công khai của IPS Dental Lab. Ảnh ở đây được Zalo bot và CabyAI gọi qua đường dẫn raw.githubusercontent.com.
 
 **Quy tắc: chỉ chứa nội dung công khai: hình catalog của hãng, dữ liệu đã được phép công khai; không bao giờ dữ liệu bệnh nhân, giá, tài liệu nội bộ.**
 
