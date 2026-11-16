@@ -53,6 +53,7 @@ docs/                                              tài liệu công khai sau n�
 | osstem | 5 |
 | paltop | 3 |
 | ritter | 3 |
+| scanbody-code | 24 |
 | sic-invent | 3 |
 | snucone | 4 |
 | straumann | 9 |
@@ -64,4 +65,4 @@ docs/                                              tài liệu công khai sau n�
 | thommen | 3 |
 | warantec | 2 |
 | zimmer-biomet | 2 |
-| Tổng | 131 |
+| Tổng | 155 |
